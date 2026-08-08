@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة ومطابقة الأراضي الفلاحية",
+  "description": "نظام رقمي شامل لإدارة وتطهير ومطابقة العقار والأراضي الفلاحية، متابعة ملفات الفلاحين والقطع الأرضية، وحرية التصدير إلى Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
